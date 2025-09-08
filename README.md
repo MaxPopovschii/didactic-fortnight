@@ -1,3 +1,4 @@
+## REPO FOR PROJECTS IN C
 This repository contains a collection of useful and educational projects written in C.
 
 Each project is organized in its own folder and includes:
