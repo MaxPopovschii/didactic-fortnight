@@ -5,7 +5,7 @@ ORG 0x7C00
 mov si, msg
 call print
 
-jmp $
+jmp 0x0000:0x7E00
 
 print:
     mov ah, 0x0E
