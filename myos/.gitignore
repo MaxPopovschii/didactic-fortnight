@@ -1,0 +1,14 @@
+# Ignore build artifacts and OS files
+*.o
+*.bin
+myos.img
+myprog
+*.exe
+*.out
+*.log
+
+# Editor/OS files
+*~
+.DS_Store
+Thumbs.db
+.vscode/
